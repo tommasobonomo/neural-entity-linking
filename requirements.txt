@@ -1,0 +1,8 @@
+pytorch_lightning==1.5.4
+transformers==4.12.5
+wandb==0.10.25
+deepspeed==0.5.8
+names_generator==0.1.0
+pandas==1.2.4
+google-cloud-storage==1.42.3
+optuna==2.10.0

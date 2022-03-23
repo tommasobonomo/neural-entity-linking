@@ -1,0 +1,10 @@
+trainingInput:
+  scaleTier: CUSTOM
+  masterType: a2-highgpu-1g
+  masterConfig:
+    acceleratorConfig:
+      count: 1
+      type: NVIDIA_TESLA_A100
+  workerCount: 0
+  parameterServerCount: 0
+  evaluatorCount: 0
